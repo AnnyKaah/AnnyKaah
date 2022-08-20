@@ -3,7 +3,7 @@
 ### I'm a passionate backend development student
 -----
 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)![FastAPI](https://img.icons8.com/ultraviolet/40/000000/api-settings.png) ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png) ![Canva](https://img.icons8.com/cute-clipart/64/000000/canva-app.png) ![Arduino](https://img.icons8.com/color/48/000000/arduino.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)![FastAPI](https://img.icons8.com/ultraviolet/40/000000/api-settings.png) ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png) ![Canva](https://img.icons8.com/cute-clipart/64/000000/canva-app.png) ![Arduino](https://img.icons8.com/color/48/000000/arduino.png)
 
 ------ 
 
