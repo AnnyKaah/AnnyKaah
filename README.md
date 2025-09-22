@@ -6,11 +6,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&background=FF56FF00&center=true&width=550&lines=FullStack+Developer+em+Evolução+💻;Apaixonada+por+Aprendizado+Contínuo+🧠;Explorando+Cloud,+JS+%26+Data+Science+☁️;Criando+Projetos+e+Desafios+🚀" alt="Typing SVG" />
-  </a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F736CA&background=FF56FF00&center=true&width=435&lines=FullStack+Developer+em+Evolu%C3%A7%C3%A3o+%F0%9F%92%BB+;Apaixonada+por+Aprendizado+Cont%C3%ADnuo;Explorando+Cloud+%26+JS+%F0%9F%9A%80;Criando+Projetos+e+Desafios+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 
 <div align="center">
@@ -22,9 +18,6 @@
   </a>
   <a href="mailto:annykamartins@icloud.com">
     <img src="https://imgur.com/s3EST1a.png" alt="E-mail" />
-  </a>
-  <a href="https://anny-dev.vercel.app/">
-    <img src="https://imgur.com/h6g4lQ2.png" alt="Portfolio" />
   </a>
 </div>
 
