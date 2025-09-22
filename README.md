@@ -1,39 +1,31 @@
 <div align="center">
- 
-
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BjcDdoNGN5d2ZnOTJ1NnRxaGJjNWE2b3o5YnF0cnE5MnB5Z2FwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmgHHxtKgDsYrVsEOw/giphy.gif" alt="Gatinho Fofo" width="200"/>
-
+  
+  <img src= "https://i.imgur.com/Zzc6LyI.png" alt="Olá, eu sou a Anny Karoline!" width="1000">
 <br><br>
-  
-  
-  <img src="https://imgur.com/Zzc6LyI" alt="Olá, eu sou a Anny Karoline!" width="600">
-
-
-
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F736CA&background=FF56FF00&center=true&width=435&lines=FullStack+Developer+em+Evolu%C3%A7%C3%A3o+%F0%9F%92%BB+;Apaixonada+por+Aprendizado+Cont%C3%ADnuo;Explorando+Cloud+%26+JS+%F0%9F%9A%80;Criando+Projetos+e+Desafios+%F0%9F%9A%80" alt="Typing SVG" /></a>
+   
 </div>
 
-<div align="center" style="margin-top:10px">
-  <a href="https://www.linkedin.com/in/annykarolinedecarvalhomartins/" target="_blank">
-    <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" height="40" style="margin-right: 20px;" />
+<div align="center">
+  <b>Vamos nos conectar:</b>
+  <a href="https://anny-dev.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/code.png" width="30" alt="Portfólio"/>
   </a>
- 
+  <a href="https://www.instagram.com/AnnyKaah_/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="30" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/annykarolinedecarvalhomartins/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="30" alt="LinkedIn"/>
+  </a>
   <a href="mailto:annykamartins@icloud.com" target="_blank">
-    <img src="https://imgur.com/s3EST1a.png" alt="E-mail" height="40" style="margin-right: 20px;" />
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/apple-mail.png" width="30" alt="Email"/>
   </a>
 </div>
+
 
 ###
+   <div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamttcDd1aDhoaWV5ODcyczV5Y2lpMnB2eWNrNW02am5hZHhudXNubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2WpVD6Y1IrMEGyf0xx/giphy.gif" alt="Gatinho Fofo" width="200"/></div>
 
-💡 O que faço:  
-- Construo **interfaces modernas e responsivas** com React, Next.js e TailwindCSS  
-- Desenvolvo **APIs e backends escaláveis** com Node.js, Express e Flask  
-- Trabalho com **bancos de dados SQL e NoSQL**: PostgreSQL, MySQL, MongoDB e DynamoDB  
-- Experimento soluções em **Cloud Computing** e automações em Python  
-
-🎯 Objetivo: criar **projetos inovadores**, aplicando meu aprendizado contínuo e minhas habilidades em engenharia e tecnologia para entregar **soluções completas e funcionais**.  
-
-  
 ###
 
 <p align="left">
@@ -83,6 +75,16 @@
 🗄️ <b>Bancos de Dados:</b> SQL (Postgres, MySQL) e NoSQL (MongoDB, DynamoDB)<br>
 🎨 <b>Design:</b> Protótipos e criatividade com Figma, Canva e Adobe
 </p>
+
+
+###
+💡 O que faço:  
+- Construo **interfaces modernas e responsivas** com React, Next.js e TailwindCSS  
+- Desenvolvo **APIs e backends escaláveis** com Node.js, Express e Flask  
+- Trabalho com **bancos de dados SQL e NoSQL**: PostgreSQL, MySQL, MongoDB e DynamoDB  
+- Experimento soluções em **Cloud Computing** e automações em Python  
+
+🎯 Objetivo: criar **projetos inovadores**, aplicando meu aprendizado contínuo e minhas habilidades em engenharia e tecnologia para entregar **soluções completas e funcionais**.  
 
 ###
 
