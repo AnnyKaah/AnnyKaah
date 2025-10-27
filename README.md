@@ -1,12 +1,8 @@
-# Anny Karoline - FullStack Developer | Engenheira em Tecnologia 🚀
-
-<div align="center">
-  <!-- Novo Banner de Header com Capsule Render para um visual mais moderno e dinâmico -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Anny%20Karoline%20-%20FullStack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Header"/>
+# Anny Karoline - FullStack Developer | Engenheira em Tecnologia 
     
+<div align="center">
 
- 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF79C6&background=FF56FF00&center=true&width=480&lines=Desenvolvedora+FullStack+%7C+JavaScript+%26+Python;Construindo+Solu%C3%A7%C3%B5es+Escal%C3%A1veis;Experi%C3%AAncia+em+React%2C+Node.js+e+Bancos+de+Dados;Engenharia+de+Software+Aplicada+a+Projetos" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF79C6&background=FF56FF00&center=true&width=480&lines=JavaScript+%26+Python;Construindo+Solu%C3%A7%C3%B5es+Escal%C3%A1veis;React%2C+Node.js+e+Bancos+de+Dados" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -42,13 +38,8 @@ Minha paixão é transformar ideias complexas em **soluções digitais completas
 ### 📚 Certificações e Formação Complementar
 
 <div align="center">
-  <a href="[LINK_DO_CERTIFICADO_BOOTCAMP_1]">
-    <img src="https://img.shields.io/badge/DIO-Bootcamp%20FullStack%20Developer-FF0066?style=for-the-badge&logo=digital-ocean&logoColor=white" alt="Bootcamp FullStack DIO"/>
-  </a>
-  <a href="[LINK_DO_CERTIFICADO_BOOTCAMP_2]">
-    <img src="https://img.shields.io/badge/DIO-Bootcamp%20Cloud%20Computing%20AWS-FF0066?style=for-the-badge&logo=digital-ocean&logoColor=white" alt="Bootcamp Cloud DIO"/>
-  </a>
-  <!-- Adicione mais badges conforme necessário -->
+  <img src="https://assets.dio.me/eu7iVfcpNaPlO8ceSncDpmNbh5EuDZ-58VM7R5iQDb4/f:webp/q:80/w:120/L3RyYWNrcy84YWYxOGIxMi1iNmY1LTRiZmYtOTIwNC1iYzU0ZjRkNjJiN2IucG5n" height="80"></a>
+  <img src="https://assets.dio.me/NZ1mhoMeRuGV3C2_uQxh1vF-HDyTF2Ymjfk0aCywydM/f:webp/q:80/w:120/L3RyYWNrcy8xYjQ1YmI0MS1hMmIyLTQ5NjMtYTMyOC03Yjc2YWIxOWE5OGUucG5n" height="80"></a>
 </div>
 
 ---
@@ -59,14 +50,9 @@ Abaixo estão as tecnologias que domino e as que estou ativamente estudando.
 
 <!-- Skill Icons para um visual mais moderno e coeso (com tema dark) -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nextjs,nodejs,express,flask,tailwind,mysql,postgresql,mongodb,docker,git,github,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nextjs,nodejs,express,flask,tailwind,mysql,postgresql,mongodb,docker,git,github,figma,aws,canva&theme=dark" />
 </div>
   
-
-<!-- Adicionando AWS e Canva que estavam na lista original (com tema dark ) -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,canva&theme=dark" />
-</div>
 
 ---
 
@@ -111,12 +97,6 @@ Acompanhe meu progresso e dedicação ao código.
 Estou sempre aberta a novas conexões, projetos e oportunidades.
 
 <div align="center">
-  <a href="https://anny-dev.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/globe--v1.png" width="35" alt="Portfólio" title="Portfólio"/>
-  </a>
-  <a href="https://www.instagram.com/AnnyKaah_/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="35" alt="Instagram" title="Instagram"/>
-  </a>
   <a href="https://www.linkedin.com/in/annykarolinedecarvalhomartins/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="35" alt="LinkedIn" title="LinkedIn"/>
   </a>
