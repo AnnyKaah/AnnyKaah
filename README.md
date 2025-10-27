@@ -1,126 +1,140 @@
-<div align="center">
-  
-  <img src= "https://i.imgur.com/Zzc6LyI.png" alt="Olá, eu sou a Anny Karoline!" width="1000">
-<br><br>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F736CA&background=FF56FF00&center=true&width=435&lines=FullStack+Developer+em+Evolu%C3%A7%C3%A3o+%F0%9F%92%BB+;Apaixonada+por+Aprendizado+Cont%C3%ADnuo;Explorando+Cloud+%26+JS+%F0%9F%9A%80;Criando+Projetos+e+Desafios+%F0%9F%9A%80" alt="Typing SVG" /></a>
-   
-</div>
+# Anny Karoline - FullStack Developer | Engenheira em Tecnologia 🚀
 
 <div align="center">
-  <b>Vamos nos conectar:</b>
-  <a href="https://anny-dev.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/code.png" width="30" alt="Portfólio"/>
-  </a>
-  <a href="https://www.instagram.com/AnnyKaah_/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="30" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/annykarolinedecarvalhomartins/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="30" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:annykamartins@icloud.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/apple-mail.png" width="30" alt="Email"/>
-  </a>
-</div>
-
-
-###
-   <div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamttcDd1aDhoaWV5ODcyczV5Y2lpMnB2eWNrNW02am5hZHhudXNubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2WpVD6Y1IrMEGyf0xx/giphy.gif" alt="Gatinho Fofo" width="200"/></div>
-
-###
-
-<p align="left">
-🎓 Pós-graduação em <b>Análise e Desenvolvimento de Sistemas</b> e atualmente em <b>Desenvolvimento Web FullStack</b><br>
-🎓 Graduanda em <b>Engenharia de Materiais (UFPI)</b><br>
-📚 Estudando <b>JavaScript, Node.js, React, AWS e Python</b><br>
-🧠 Apaixonada por <b>aprendizado contínuo</b> e pela construção de soluções criativas<br>
-💡 Criando projetos que combinam <b>Front-end, Back-end e Cloud</b>
-</p>
-
-###
-
-<h3 align="left">💻 Tech Stack</h3>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" />
-</div>
-
-###
-
-<h3 align="left">🚀 Projetos e Aprendizado</h3>
-
-<p align="left">
-💻 <b>Frontend:</b> Interfaces modernas com React, TailwindCSS e Next.js<br>
-⚙️ <b>Backend:</b> APIs com Node.js, Express e Flask<br>
-🐍 <b>Python:</b> Automação, Data Science e pequenos scripts<br>
-🗄️ <b>Bancos de Dados:</b> SQL (Postgres, MySQL) e NoSQL (MongoDB, DynamoDB)<br>
-🎨 <b>Design:</b> Protótipos e criatividade com Figma, Canva e Adobe
-</p>
-
-
-###
-💡 O que faço:  
-- Construo **interfaces modernas e responsivas** com React, Next.js e TailwindCSS  
-- Desenvolvo **APIs e backends escaláveis** com Node.js, Express e Flask  
-- Trabalho com **bancos de dados SQL e NoSQL**: PostgreSQL, MySQL, MongoDB e DynamoDB  
-- Experimento soluções em **Cloud Computing** e automações em Python  
-
-🎯 Objetivo: criar **projetos inovadores**, aplicando meu aprendizado contínuo e minhas habilidades em engenharia e tecnologia para entregar **soluções completas e funcionais**.  
-
-###
-
-<h3 align="center">📊 Status & Linguagens</h3>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AnnyKaah&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=pt-br" height="150" />
+  <!-- Novo Banner de Header com Capsule Render para um visual mais moderno e dinâmico -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Anny%20Karoline%20-%20FullStack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Header"/>
+    
 
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnyKaah&layout=compact&theme=radical&langs_count=8&locale=pt-br" height="150" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF79C6&background=FF56FF00&center=true&width=480&lines=Desenvolvedora+FullStack+%7C+JavaScript+%26+Python;Construindo+Solu%C3%A7%C3%B5es+Escal%C3%A1veis;Experi%C3%AAncia+em+React%2C+Node.js+e+Bancos+de+Dados;Engenharia+de+Software+Aplicada+a+Projetos" alt="Typing SVG" /></a>
+</div>
+
+---
+
+## 🌟 Destaque 
+
+Sou uma **Desenvolvedora FullStack** com uma base sólida em **Engenharia**, o que me permite abordar o desenvolvimento de software com uma mentalidade de **solução de problemas, eficiência e escalabilidade**.
+
+Minha paixão é transformar ideias complexas em **soluções digitais completas**, desde o design da interface até a arquitetura de backend e a implantação em nuvem.
+
+| Foco Principal | Habilidades Chave | Proposta de Valor |
+| :--- | :--- | :--- |
+| **Desenvolvimento FullStack** | JavaScript, React, Node.js, Python, SQL/NoSQL | Entrega de projetos completos (Front-end, Back-end e Banco de Dados ). |
+| **Engenharia de Software** | Análise de Sistemas, Estrutura de Dados, Otimização | Código limpo, testável e arquiteturas robustas para performance e manutenção. |
+| **Cloud & DevOps** | AWS (em estudo), Docker, CI/CD (Básico) | Capacidade de entender e trabalhar com ambientes de produção modernos e escaláveis. |
 
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnyKaah&theme=radical&locale=pt-br" height="150" />
-
-</div>
-
-###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/annykarolinedecarvalhomartins/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Completo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://anny-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-Meus%20Projetos-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+  </a>
+  <a href="mailto:annykamartins@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Entre%20em%20Contato-EA4335?style=for-the-badge&logo=apple-mail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
+---
+
+### 📚 Certificações e Formação Complementar
+
+<div align="center">
+  <a href="[LINK_DO_CERTIFICADO_BOOTCAMP_1]">
+    <img src="https://img.shields.io/badge/DIO-Bootcamp%20FullStack%20Developer-FF0066?style=for-the-badge&logo=digital-ocean&logoColor=white" alt="Bootcamp FullStack DIO"/>
+  </a>
+  <a href="[LINK_DO_CERTIFICADO_BOOTCAMP_2]">
+    <img src="https://img.shields.io/badge/DIO-Bootcamp%20Cloud%20Computing%20AWS-FF0066?style=for-the-badge&logo=digital-ocean&logoColor=white" alt="Bootcamp Cloud DIO"/>
+  </a>
+  <!-- Adicione mais badges conforme necessário -->
+</div>
+
+---
+
+## 💻 Minha Caixa de Ferramentas (Tech Stack )
+
+Abaixo estão as tecnologias que domino e as que estou ativamente estudando.
+
+<!-- Skill Icons para um visual mais moderno e coeso (com tema dark) -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nextjs,nodejs,express,flask,tailwind,mysql,postgresql,mongodb,docker,git,github,figma&theme=dark" />
+</div>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=AnnyKaah&theme=radical&row=1&column=6&margin-w=8&margin-h=8" alt="trophies"/>
 
+<!-- Adicionando AWS e Canva que estavam na lista original (com tema dark ) -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,canva&theme=dark" />
 </div>
 
-###
+---
+
+## 💡 Meus Projetos e Áreas de Foco
+
+**Recrutador, convido você a explorar meus repositórios!** Cada projeto é uma prova da minha capacidade de aplicar o conhecimento FullStack.
+
+| Área | O que você encontrará nos repositórios | Exemplo de Habilidade Aplicada |
+| :--- | :--- | :--- |
+| **Frontend Moderno** | Interfaces de usuário dinâmicas com **React** e **Next.js**, estilizadas com **TailwindCSS**. | Criação de componentes reutilizáveis, gerenciamento de estado e SSR/SSG. |
+| **APIs e Backend** | APIs RESTful e aplicações de servidor com **Node.js (Express )** e **Python (Flask)**. | Autenticação (JWT), validação de dados e arquitetura de microserviços (em projetos maiores). |
+| **Data & Integração** | Projetos que utilizam **PostgreSQL** ou **MongoDB**, com foco em modelagem de dados e consultas eficientes. | Integração de banco de dados com o backend, uso de ORMs/ODMs. |
+| **Inovação** | Experimentos com **Cloud** (AWS) e automação em **Python** (scripts de web scraping ou análise de dados). | Demonstração de aprendizado contínuo e exploração de novas tecnologias. |
 
 <div align="center">
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnnyKaah.AnnyKaah&left_color=violet&right_color=cornflowerblue" />
-
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamttcDd1aDhoaWV5ODcyczV5Y2lpMnB2eWNrNW02am5hZHhudXNubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2WpVD6Y1IrMEGyf0xx/giphy.gif" alt="Gatinho Fofo" width="150"/>
 </div>
 
-###
+---
+
+## 📈 Estatísticas do GitHub
+
+Acompanhe meu progresso e dedicação ao código.
+
+<!-- Alteração para o tema 'dracula' para um visual mais profissional e escuro -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnnyKaah&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnyKaah&layout=compact&theme=dracula&langs_count=8&locale=pt-br&hide_border=true" alt="Top Linguagens" style="margin: 10px;"/>
+    
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnyKaah&theme=dracula&locale=pt-br&hide_border=true" alt="Streak Stats" style="margin: 10px;"/>
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer" alt="Footer" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnnyKaah&theme=dracula&row=1&column=6&margin-w=8&margin-h=8" alt="Troféus do GitHub"/>
 </div>
+
+---
+
+## 🤝 Conecte-se Comigo
+
+Estou sempre aberta a novas conexões, projetos e oportunidades.
+
+<div align="center">
+  <a href="https://anny-dev.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/globe--v1.png" width="35" alt="Portfólio" title="Portfólio"/>
+  </a>
+  <a href="https://www.instagram.com/AnnyKaah_/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="35" alt="Instagram" title="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/annykarolinedecarvalhomartins/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="35" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  <a href="mailto:annykamartins@icloud.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/apple-mail.png" width="35" alt="Email" title="Email"/>
+  </a>
+</div>
+
+<div align="center">
+    
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnnyKaah.AnnyKaah&left_color=violet&right_color=cornflowerblue" alt="Contador de Visitas"/>
+    
+  
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer&animation=fadeIn" alt="Footer" />
+</div>
+
