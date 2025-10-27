@@ -58,14 +58,20 @@ Abaixo estão as tecnologias que domino e as que estou ativamente estudando.
 
 ## 💡 Meus Projetos e Áreas de Foco
 
-**Recrutador, convido você a explorar meus repositórios!** Cada projeto é uma prova da minha capacidade de aplicar o conhecimento FullStack.
+**Convido você a explorar meus repositórios!** 
 
-| Área | O que você encontrará nos repositórios | Exemplo de Habilidade Aplicada |
+| Projeto | Foco | Tecnologias Chave |
 | :--- | :--- | :--- |
-| **Frontend Moderno** | Interfaces de usuário dinâmicas com **React** e **Next.js**, estilizadas com **TailwindCSS**. | Criação de componentes reutilizáveis, gerenciamento de estado e SSR/SSG. |
-| **APIs e Backend** | APIs RESTful e aplicações de servidor com **Node.js (Express )** e **Python (Flask)**. | Autenticação (JWT), validação de dados e arquitetura de microserviços (em projetos maiores). |
-| **Data & Integração** | Projetos que utilizam **PostgreSQL** ou **MongoDB**, com foco em modelagem de dados e consultas eficientes. | Integração de banco de dados com o backend, uso de ORMs/ODMs. |
-| **Inovação** | Experimentos com **Cloud** (AWS) e automação em **Python** (scripts de web scraping ou análise de dados). | Demonstração de aprendizado contínuo e exploração de novas tecnologias. |
+| **[HabitHero](https://github.com/AnnyKaah/HabitHero )** | **FullStack** | TypeScript, React, Node.js, Banco de Dados |
+| **[meu-portfolio](https://github.com/AnnyKaah/meu-portfolio )** | **FullStack** | JavaScript, Boas Práticas, Soluções Escaláveis |
+| **[cloud-girls-aws-journey](https://github.com/AnnyKaah/cloud-girls-aws-journey )** | **Cloud & DevOps** | AWS, YAML, S3, IAM, Serverless |
+| **[gemini-ai-chat-assistant](https://github.com/AnnyKaah/gemini-ai-chat-assistant )** | **IA/JavaScript** | JavaScript, Gemini API, Chatbot |
+| **[project-padroes-spring](https://github.com/AnnyKaah/project-padroes-spring )** | **Backend/Java** | Java, Spring Boot, Padrões de Projeto |
+| **[parking-cloud](https://github.com/AnnyKaah/parking-cloud )** | **Backend/Java** | Java, Spring Boot, API REST |
+| **[universe-law-landing-page](https://github.com/AnnyKaah/universe-law-landing-page )** | **Frontend Interativo** | HTML, CSS, JavaScript Vanilla |
+| **[pokedex-challenge](https://github.com/AnnyKaah/pokedex-challenge )** | **Frontend/API** | JavaScript, HTML, CSS, API REST |
+| **[detona-ralph-challenge](https://github.com/AnnyKaah/detona-ralph-challenge )** | **Frontend/Jogos** | JavaScript, HTML, CSS |
+| **[yu-gi-oh-challenger](https://github.com/AnnyKaah/yu-gi-oh-challenger )** | **Frontend/Jogos** | JavaScript |
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamttcDd1aDhoaWV5ODcyczV5Y2lpMnB2eWNrNW02am5hZHhudXNubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2WpVD6Y1IrMEGyf0xx/giphy.gif" alt="Gatinho Fofo" width="150"/>
