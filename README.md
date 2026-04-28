@@ -1,4 +1,4 @@
-# Anny Karoline - FullStack Developer | Engenheira em Tecnologia 
+# Anny Karoline Martins - FullStack Developer | Engenheira em Tecnologia 
     
 <div align="center">
 
@@ -103,10 +103,10 @@ Acompanhe meu progresso e dedicação ao código.
 Estou sempre aberta a novas conexões, projetos e oportunidades.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/annykarolinedecarvalhomartins/" target="_blank">
+  <a href="linkedin.com/in/annycmartins/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="35" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  <a href="mailto:annykamartins@icloud.com" target="_blank">
+  <a href="mailto:anny.martins.dev@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/EA4335/apple-mail.png" width="35" alt="Email" title="Email"/>
   </a>
 </div>
