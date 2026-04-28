@@ -103,7 +103,7 @@ Acompanhe meu progresso e dedicação ao código.
 Estou sempre aberta a novas conexões, projetos e oportunidades.
 
 <div align="center">
-  <a href="linkedin.com/in/annycmartins/" target="_blank">
+  <a href="https://linkedin.com/in/annycmartins/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="35" alt="LinkedIn" title="LinkedIn"/>
   </a>
   <a href="mailto:anny.martins.dev@gmail.com" target="_blank">
